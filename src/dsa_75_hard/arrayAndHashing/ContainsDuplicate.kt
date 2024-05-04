@@ -20,3 +20,53 @@ package dsa_75_hard.arrayAndHashing
     Output: true
 
  */
+
+fun main(){
+    print(containsDuplicate(intArrayOf(1,2,3,4)))
+}
+
+/**
+ * in this approach, we'll use set and add items one-by-one
+ * while adding we'll also check if element is already present or not
+ * Time Complexity - O(n),
+ * Space Complexity - 0(n)
+ */
+fun containsDuplicate(nums: IntArray): Boolean {
+    val setContainer = mutableSetOf<Int>()
+    for(num in nums){
+        if(setContainer.contains(num)) return true
+        setContainer.add(num)
+    }
+    return false
+}
+
+/**
+ * in this approach, we'll use two loop first loop takes a number and
+ * compare it with other numbers in second loop
+ * Time Complexity - O(n^2),
+ * Space Complexity - 0(1)
+ */
+fun containsDuplicateBruteForceApproach(nums: IntArray): Boolean {
+    for(i in nums.indices){
+        for(j in i+1 until nums.size){
+            if(nums[i] == nums[j]) return true
+        }
+    }
+    return false
+}
+
+
+/**
+ * in this approach, we'll sort the array first and
+ * compare an element with the next element, as the array is sorted, the duplicate numbers will be next to each other.
+ * Time Complexity - O(nlogn) better than O(n^2),
+ * Space Complexity - 0(1)
+ */
+fun containsDuplicateSortingApproach(nums: IntArray): Boolean {
+    nums.sort()
+    print(nums.contentToString())
+    for(i in 0 until nums.size-1){
+        if(nums[i] == nums[i+1]) return true
+    }
+    return false
+}
