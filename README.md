@@ -34,8 +34,8 @@ Contribute:
 =
 Contributions are welcome! If you have a new problem solution, an optimization, or a suggestion for improvement, feel free to submit a pull request following the contribution guidelines.
 Resources
-LeetCode - Practice coding interviews with real-world questions.
-GeeksforGeeks - Learn and practice computer science topics and algorithms.
-Hackerrank - Improve your coding skills with challenges and competitions.
-Contributing
+[LeetCode](https://leetcode.com/) - Practice coding interviews with real-world questions.  
+[GeeksforGeeks](https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions) - Learn and practice computer science topics and algorithms.  
+[Hackerrank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving) - Improve your coding skills with challenges and competitions.  
+Contributing  
 Contributions to this repository are encouraged! If you'd like to contribute a new problem solution, fix a bug, or improve the documentation.
