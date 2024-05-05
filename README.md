@@ -32,8 +32,8 @@ Refer to the blind-75-questions.md file for the curated list of Blind 75 questio
 
 Contribute:
 =
-Contributions are welcome! If you have a new problem solution, an optimization, or a suggestion for improvement, feel free to submit a pull request following the contribution guidelines.
-Resources
+Contributions are welcome! If you have a new problem solution, an optimization, or a suggestion for improvement, feel free to submit a pull request following the contribution guidelines.  
+**Resources**  
 [LeetCode](https://leetcode.com/) - Practice coding interviews with real-world questions.  
 [GeeksforGeeks](https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions) - Learn and practice computer science topics and algorithms.  
 [Hackerrank](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving) - Improve your coding skills with challenges and competitions.  
