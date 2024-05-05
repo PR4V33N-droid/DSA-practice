@@ -8,10 +8,12 @@ This repository contains a collection of data structures and algorithms practice
 
 Contents
 =
-Data Structures: Implementations and exercises for common data structures such as arrays, linked lists, stacks, queues, trees, heaps, graphs, and more.  
-Algorithms: Solutions for classic algorithmic problems and techniques including searching, sorting, dynamic programming, graph algorithms, string manipulation, and more.  
-Blind 75 Questions: A curated list of 75 frequently asked coding interview questions, often referred to as the Blind 75, designed to cover a wide range of topics and difficulty levels commonly encountered in technical interviews.  
+**Data Structures:** Implementations and exercises for common data structures such as arrays, linked lists, stacks, queues, trees, heaps, graphs, and more.  
+**Algorithms:** Solutions for classic algorithmic problems and techniques including searching, sorting, dynamic programming, graph algorithms, string manipulation, and more.  
+**Blind 75 Questions:** A curated list of 75 frequently asked coding interview questions, often referred to as the Blind 75, designed to cover a wide range of topics and difficulty levels commonly encountered in technical interviews. 
+
 Blind 75 Questions
+=
 The Blind 75 questions are a set of handpicked coding interview questions compiled to help you prepare comprehensively for technical interviews. These questions cover various topics including arrays, strings, linked lists, trees, graphs, dynamic programming, sorting, searching, and more.
 
 Each question is carefully selected based on its frequency in technical interviews and its ability to assess fundamental problem-solving skills. The solutions provided aim to not only solve the problem but also explain the thought process, approach, and optimizations involved.
