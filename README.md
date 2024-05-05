@@ -14,7 +14,7 @@ Contents
 
 Blind 75 Questions
 =
-The Blind 75 questions are a set of handpicked coding interview questions compiled to help you prepare comprehensively for technical interviews. These questions cover various topics including arrays, strings, linked lists, trees, graphs, dynamic programming, sorting, searching, and more.
+The Blind 75 questions are a set of handpicked coding interview questions compiled to help you prepare comprehensively for technical interviews. These questions cover various topics including arrays, strings, linked lists, trees, graphs, dynamic programming, sorting, searching, and more. https://neetcode.io/practice
 
 Each question is carefully selected based on its frequency in technical interviews and its ability to assess fundamental problem-solving skills. The solutions provided aim to not only solve the problem but also explain the thought process, approach, and optimizations involved.
 
