@@ -16,8 +16,6 @@ package dsa_75_hard.arrayAndHashing
  *
  */
 
-
-
 fun main(){
 
     val result = mostKFrequent(intArrayOf(3,0,1,0,1,1,3), 3)
