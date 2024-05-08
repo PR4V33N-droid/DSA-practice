@@ -34,7 +34,6 @@ fun main(){
  * The maxArea function uses two pointers, i and j, to iterate through the pillars array.
  * It compares the heights of the pillars pointed to by i and j and calculates the area of the container formed by them.
  * It keeps track of the maximum area found so far and updates it if a larger area is encountered.
- * The pointers are moved strategically to find the optimal combination of pillars that maximizes the container's area.
  */
 
 fun maxArea(pillars: IntArray): Int {
