@@ -47,13 +47,11 @@ fun reverseString(s: String): String {
         while (j < n && s[j] != ' ') {
             j++
         }
-
         if(reversedString == ""){
             reversedString = s.substring(i, j)
         } else {
             reversedString = s.substring(i, j) + " " + reversedString
         }
-
         i = j
     }
 
