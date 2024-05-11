@@ -1,4 +1,4 @@
-package dsa_75_hard.twoPointer
+package dsa_75_hard.array.twoPointer
 
 /**
  * Question Link: {@link https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&envId=leetcode-75}

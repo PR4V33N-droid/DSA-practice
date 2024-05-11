@@ -1,4 +1,4 @@
-package dsa_75_hard.twoPointer
+package dsa_75_hard.array.twoPointer
 
 import kotlin.math.max
 import kotlin.math.min

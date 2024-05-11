@@ -1,4 +1,4 @@
-package dsa_75_hard.slidingWindow
+package dsa_75_hard.array.slidingWindow
 
 import kotlin.math.max
 

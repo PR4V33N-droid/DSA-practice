@@ -1,4 +1,4 @@
-package dsa_75_hard.arrayAndHashing
+package dsa_75_hard.array.hashing
 
 /**
  * Question Link: {@link https://leetcode.com/problems/top-k-frequent-elements/description/}
